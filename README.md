@@ -17,8 +17,9 @@ now start the server using "npm start" command in assignment2 folder.
 4. get type Api-> "/weather" for getting 5days weather this api doesn't require authentication.
 5 post api-> "/user/logout" for log out user.
 
-
-
+.env file -> all the keys, url's, port numbers and all other confidentials details are stored in .env file
+I have used redis cache for third part api
+and mocha and chai for unit testing.
 
 
 -----------------------Description About the project---------------------------
